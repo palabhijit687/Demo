@@ -1,4 +1,4 @@
-package om.abhijit.flightreservation;
+package com.abhijit.flightreservation;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
